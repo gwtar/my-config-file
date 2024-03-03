@@ -1,0 +1,5 @@
+require("gwtar.keymap")
+require("gwtar.setting")
+require("gwtar.packer")
+require("gwtar.treesitter")
+require("gwtar.lualine")
